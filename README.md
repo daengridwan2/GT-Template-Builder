@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <h1>EmailBuilder.js</h1>
   <p align="center">
@@ -238,3 +239,6 @@ EmailBuilder.js is the community version of our much-loved no-code template buil
 ## Looking for something special?
 
 Need special consultation, a one-off feature, integration, or something else for your business? We can help or put you in touch with someone that can – contact us at support@usewaypoint.com and share your details.
+=======
+# GT-Template-Builder
+>>>>>>> 2d4a520c5dbe3145338e743bf0876d2fb9ce8af8
